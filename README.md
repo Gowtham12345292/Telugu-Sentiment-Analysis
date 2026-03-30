@@ -2,7 +2,7 @@
 
 Fine-tuned `bert-base-multilingual-cased` (mBERT) on Telugu sentiment data for 3-class classification (Positive, Negative, Neutral). Deployed on HuggingFace with real-time Streamlit interface.
 
-Live Model: [HuggingFace — Gowthamvemula/Teugu_Sentimental_fine-tuning](https://huggingface.co/Gowthamvemula/Teugu_Sentimental_fine-tuning)
+Live Model: [HuggingFace — Gowthamvemula/Teugu_Sentimental_fine-tuning](https://huggingface.co/spaces/Gowthamvemula/Telugu_Sentimental_Fine_Tuning)
 
 ---
 

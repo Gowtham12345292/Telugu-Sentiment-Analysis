@@ -1,1 +1,7 @@
-
+transformers
+datasets
+torch
+streamlit
+huggingface_hub
+sentencepiece
+protobuf
